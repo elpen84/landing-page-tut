@@ -71,7 +71,7 @@ section {
 }
 
 header {
-  background-image: url("/images/header.jpg");
+  background-image: url("images/header.jpg");
   height: 586px;
   width: 100%;
   background-size: cover;
