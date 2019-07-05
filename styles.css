@@ -67,6 +67,7 @@ section {
   
 }
 
+a:visited{color:inherit}
 a:visited {color:#fff;}
 
 .menu li:hover {
